@@ -44,6 +44,8 @@ If you want to help, and you have a strong experience in Symfony, ReactJS, HTML/
 
 ### Scalingo (ex Appsdeck)
 
+[![Deploy to Scalingo](https://cdn.scalingo.com/deploy/button.png)](https://my.scalingo.com/deploy?ref=branch-2)
+
 Scalingo is the trendy European PAAS provider. See their offer here <https://scalingo.com>
 
 1. `git clone -b branch-2 https://github.com/netgusto/Baikal.git`

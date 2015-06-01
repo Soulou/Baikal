@@ -1,0 +1,11 @@
+{
+  "name": "Baikal",
+  "description": "An open-source solution for your calendar and contacts",
+  "repository": "https://github.com/netgusto/Baikal",
+  "logo": "https://raw.githubusercontent.com/netgusto/Baikal/branch-2/web/assets/images/baikal-logo.svg",
+  "keywords": ["PHP", "calendar", "caldav"],
+  "env": {},
+  "addons": [
+    "scalingo-mysql"
+  ]
+}
